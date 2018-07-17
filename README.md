@@ -1,6 +1,6 @@
 # SRS
 # 类图
-!(https://github.com/545063309/SRS/blob/master/png/model.PNG)
+!(https://raw.githubusercontent.com/545063309/SRS/blob/master/png/model.PNG)
 # 数据库
 # 系统框架
 # 选课顺序图
