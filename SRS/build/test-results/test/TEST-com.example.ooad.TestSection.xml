@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ooad.TestSection" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-17T02:21:01" hostname="LAPTOP-UGSG98B6" time="0.02">
+  <properties/>
+  <testcase name="testChooseSection" classname="com.example.ooad.TestSection" time="0.02"/>
+  <system-out><![CDATA[s.getCourse().getNumber()====001
+section.getCourse().getNumber()=====003
+s.getCourse().getNumber()====002
+section.getCourse().getNumber()=====003
+s.getCourse().getNumber()====003
+section.getCourse().getNumber()=====003
+选课成功
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
